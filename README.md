@@ -11,7 +11,7 @@
 
 A nostalgic journey back to the Windows 95 era, **viewport** is a retro-themed web desktop that serves as both an interactive playground and a personal portfolio. This isn't just a website—it's a fully functional desktop environment that captures the charm and personality of classic Windows operating systems.
 
-The project features customizable and persistent wallpapers, interactive MS Office-style agents (including Clippy and custom characters) that provide random commentary, a complete window management system, repositionable desktop icons, launchable applications, and immersive 3D elements powered by Three.js. It houses my personal sketchbook showcase, interactive games, creative tools, and various fun elements that bring the interface to life while maintaining an authentic Windows 95 experience.
+The project features customizable and persistent wallpapers with ASCII art, interactive MS Office-style agents (including Clippy and custom characters) that provide random commentary, a complete window management system, repositionable desktop icons, launchable applications, and immersive 3D elements powered by Three.js. It houses my personal sketchbook showcase, interactive games, creative tools, and various fun elements that create an engaging Windows 95 experience.
 
 ---
 
@@ -23,18 +23,18 @@ The project features customizable and persistent wallpapers, interactive MS Offi
 - **Git** for version control  
 
 ## Libraries  
-- [`WinBox.js`](https://nextapps-de.github.io/winbox/) – Modern desktop window manager  
-- [`Three.js`](https://threejs.org/) – WebGL 3D graphics  
-- [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber/) – React renderer for Three.js  
-- [`@react-three/drei`](https://docs.pmnd.rs/drei/) – Helpers for react-three-fiber  
+- [`WinBox.js`](https://nextapps-de.github.io/winbox/) Modern desktop window manager  
+- [`Three.js`](https://threejs.org/) WebGL 3D graphics  
+- [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber/) React renderer for Three.js  
+- [`@react-three/drei`](https://docs.pmnd.rs/drei/) Helpers for react-three-fiber  
 
 ## Enhancements & Embeds  
-- **Sketchbook** – Personal artwork showcase
-- **Pipes** – Remake of Windows 3D Pipes screensaver by [1j01](https://github.com/1j01)  
-- **Paint** – MS Paint remake via [jspaint.app](https://jspaint.app)  
-- **Pac-Man** – Arcade remake by [masonicGIT](https://github.com/masonicGIT)  
-- **Minesweeper** – XP-style clone by [ziebelje](https://github.com/ziebelje)  
-- **Old Google 1998** – Embedded via Neocities  
+- **Sketchbook** Personal artwork showcase
+- **Pipes** Remake of Windows 3D Pipes screensaver by [1j01](https://github.com/1j01)  
+- **Paint** MS Paint remake via [jspaint.app](https://jspaint.app)  
+- **Pac-Man** Arcade remake by [masonicGIT](https://github.com/masonicGIT)  
+- **Minesweeper** XP-style clone by [ziebelje](https://github.com/ziebelje)  
+- **Old Google 1998** Embedded via Neocities  
 
 **3D models from Sketchfab:**
 - [WeepingAngel](https://skfb.ly/pnPxB)
@@ -163,4 +163,4 @@ Special thanks to all the open-source developers and creators whose work made th
 
 ---
 
-*Built with ❤️ and nostalgia*
+*Handcrafted*
