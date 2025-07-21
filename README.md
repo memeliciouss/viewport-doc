@@ -1,6 +1,5 @@
-# **viewport** /memelicious  
+# **viewport**
 *A window into my world*  
-
 A playful, retro-themed web desktop inspired by Windows 95 that serves as both a fun website and a personal portfolio, mirroring how I think, build, and design.
 Blending design and interactivity, making the website feel more like an operating system than a static page, playful and alive.
 
