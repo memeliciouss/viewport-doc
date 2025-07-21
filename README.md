@@ -2,10 +2,8 @@
 ### A window into my world  
 
 ##  Objective  
-A playful, retro-themed web desktop inspired by **Windows 95** that serves as both a personal portfolio and a fun interactive experience.  
-It mirrors how I think, build, and design — blending aesthetic nostalgia with modern web development.
-
-> The interface feels more like an operating system than a static page — playful, alive, and dynamic.
+A playful, retro-themed web desktop inspired by Windows 95 that serves as both a fun website and a personal portfolio, mirroring how I think, build, and design.
+Blending design and interactivity, making the website feel more like an operating system than a static page, playful and alive.
 
 ---
 
@@ -43,36 +41,26 @@ viewport/
 ├── public/
 │   ├── clippy-agents/
 │   │   ├── clippy/
-│   │   │   ├── * clippy assets
 │   │   ├── hamster/
-│   │   │   ├── * hamster assets
 │   │   ├── milkcarton/
-│   │   │   ├── * carton assets
 │   │   └── ufo/
-│   │       ├── * ufo assets
 │   ├── cursors/
-│   │   ├── * .cur assets
 │   ├── customui/
 │   │   ├── controls/
-│   │   │   ├── close.webp
-│   │   │   ├── cross.webp
-│   │   │   ├── max.webp
-│   │   │   └── min.webp
-│   │   ├── winbox.min.css
-│   │   ├── winbox.min.js
-│   │   └── windows-theme.css
+│   │   ├── winbox.min.css          # External (WinBox UI styles)
+│   │   ├── winbox.min.js           # External (WinBox JS lib), customized
+│   │   └── windows-theme.css       # Custom
 │   ├── data/
 │   │   ├── apps.json
 │   │   ├── ascii/
-│   │   │   ├── * ascii txt assets
 │   │   ├── crt.webp
 │   │   └── dither.webp
 │   ├── favicon.ico
 │   ├── fonts/
-│   │   └── windows.ttf
+│   │   └── windows.ttf             # W95FA font
 │   ├── icons/
-│   │   ├── * icons webp assets
-│   ├── mines/
+│   │   └── *.webp                  # External icon pack (from Internet Archive)
+│   ├── mines/                      # Embedded Minesweeper by ziebelje
 │   │   ├── css/
 │   │   │   └── minesweeper.css
 │   │   ├── image/
@@ -88,15 +76,17 @@ viewport/
 │   │       ├── seedrandom.js
 │   │       ├── ssd.js
 │   │       └── tile.js
-│   ├── pipes/
+│   ├── pipes/                      # Windows 3D Pipes remake by 1j01
 │   │   ├── candycane.png
-│   │   ├── OrbitControls.js
+│   │   ├── OrbitControls.js        # External (Three.js helper)
 │   │   ├── screensaver.js
 │   │   ├── sri-fallback.js
 │   │   ├── TeapotBufferGeometry.js
-│   │   └── three.min.js
+│   │   └── three.min.js            # External (Three.js lib)
 │   ├── sketchbook/
-│   │   ├── * sketchbook assets as webp
+│   │   └── * personal sketchbook art (original, webp)
+│   │   ├── office.glb              # 3D model from Sketchfab: https://skfb.ly/prP6R
+│   │   └── turtle.glb              # 3D model from Sketchfab: https://skfb.ly/pwXMA
 │   ├── threejs/
 │   │   ├── barge.wav
 │   │   ├── chime.wav
@@ -108,10 +98,10 @@ viewport/
 │   │   ├── py.webp
 │   │   ├── pz.webp
 │   │   ├── respawn_anchor.ogg
-│   │   ├── star_night.hdr
-│   │   ├── weeping_angel.glb
-│   │   └── winter_city.hdr
-│   └── win95.mp3
+│   │   ├── star_night.hdr          # External (HDRI environment map)
+│   │   ├── weeping_angel.glb       # External (3D model from Sketchfab)
+│   │   └── winter_city.hdr         # External (HDRI)
+│   └── win95.mp3                   # Boot sound (public domain)
 ├── README.md
 ├── src/
 │   ├── app/
@@ -153,4 +143,5 @@ viewport/
 │       └── wallpaper.css
 ├── tsconfig.json
 └── yarn.lock
+
 
