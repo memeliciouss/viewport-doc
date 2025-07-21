@@ -9,7 +9,7 @@
 
 ## About
 
-A nostalgic journey back to the Windows 95 era, **viewport** is a retro-themed web desktop that serves as both an interactive playground and a personal portfolio. This isn't just a website—it's a fully functional desktop environment that captures the charm and personality of classic Windows operating systems.
+A nostalgic web desktop inspired by Windows 95 that serves as both an interactive playground and personal portfolio. By blending retro design with modern interactivity, it creates an engaging desktop experience that reflects my approach to thinking, building, and designing.
 
 The project features customizable and persistent wallpapers with ASCII art, interactive MS Office-style agents (including Clippy and custom characters) that provide random commentary, a complete window management system, repositionable desktop icons, launchable applications, and immersive 3D elements powered by Three.js. It houses my personal sketchbook showcase, interactive games, creative tools, and various fun elements that create an engaging Windows 95 experience.
 
