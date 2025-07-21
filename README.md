@@ -1,7 +1,17 @@
 # **viewport**
 *A window into my world*  
-A playful, retro-themed web desktop inspired by Windows 95 that serves as both a fun website and a personal portfolio, mirroring how I think, build, and design.
-Blending design and interactivity, making the website feel more like an operating system than a static page, playful and alive.
+
+[memelicious-viewport.vercel.app](https://memelicious-viewport.vercel.app)
+
+**Repository Status:** This repository is currently **private** and serves as a documentation/credits repo only. The original codebase remains private for now. This README exists to properly credit all the amazing open-source projects and resources that made this project possible.
+
+---
+
+## About
+
+A nostalgic journey back to the Windows 95 era, **viewport** is a retro-themed web desktop that serves as both an interactive playground and a personal portfolio. This isn't just a website—it's a fully functional desktop environment that captures the charm and personality of classic Windows operating systems.
+
+The project features customizable and persistent wallpapers, interactive MS Office-style agents (including Clippy and custom characters) that provide random commentary, a complete window management system, repositionable desktop icons, launchable applications, and immersive 3D elements powered by Three.js. It houses my personal sketchbook showcase, interactive games, creative tools, and various fun elements that bring the interface to life while maintaining an authentic Windows 95 experience.
 
 ---
 
@@ -12,26 +22,24 @@ Blending design and interactivity, making the website feel more like an operatin
 - **Custom CSS**
 - **Git** for version control  
 
-
 ## Libraries  
 - [`WinBox.js`](https://nextapps-de.github.io/winbox/) – Modern desktop window manager  
 - [`Three.js`](https://threejs.org/) – WebGL 3D graphics  
 - [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber/) – React renderer for Three.js  
 - [`@react-three/drei`](https://docs.pmnd.rs/drei/) – Helpers for react-three-fiber  
 
-
 ## Enhancements & Embeds  
-- **Sketchbook** – Personal artwork  
+- **Sketchbook** – Personal artwork showcase
 - **Pipes** – Remake of Windows 3D Pipes screensaver by [1j01](https://github.com/1j01)  
 - **Paint** – MS Paint remake via [jspaint.app](https://jspaint.app)  
 - **Pac-Man** – Arcade remake by [masonicGIT](https://github.com/masonicGIT)  
 - **Minesweeper** – XP-style clone by [ziebelje](https://github.com/ziebelje)  
 - **Old Google 1998** – Embedded via Neocities  
-- **3D models from Sketchfab**
-        [WeepingAngel](https://skfb.ly/pnPxB)
-        [Cubicle](https://skfb.ly/prP6R)
-        [Turtle](https://skfb.ly/pwXMA)
-                    
+
+**3D models from Sketchfab:**
+- [WeepingAngel](https://skfb.ly/pnPxB)
+- [Cubicle](https://skfb.ly/prP6R)
+- [Turtle](https://skfb.ly/pwXMA)
 
 ---
 
@@ -146,5 +154,13 @@ viewport/
 │       └── wallpaper.css
 ├── tsconfig.json
 └── yarn.lock
+```
 
+---
 
+## Acknowledgments
+Special thanks to all the open-source developers and creators whose work made this project possible. From the classic games to the 3D models, each contribution helps keep the spirit of retro computing alive while pushing the boundaries of what's possible on the web.
+
+---
+
+*Built with ❤️ and nostalgia*
