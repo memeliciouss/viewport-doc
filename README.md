@@ -23,12 +23,17 @@ Blending design and interactivity, making the website feel more like an operatin
 
 
 ## Enhancements & Embeds  
-- **Sketchbook** – Personal artwork showcase  
+- **Sketchbook** – Personal artwork  
 - **Pipes** – Remake of Windows 3D Pipes screensaver by [1j01](https://github.com/1j01)  
 - **Paint** – MS Paint remake via [jspaint.app](https://jspaint.app)  
 - **Pac-Man** – Arcade remake by [masonicGIT](https://github.com/masonicGIT)  
 - **Minesweeper** – XP-style clone by [ziebelje](https://github.com/ziebelje)  
 - **Old Google 1998** – Embedded via Neocities  
+- **3D models from Sketchfab**
+        [WeepingAngel](https://skfb.ly/pnPxB)
+        [Cubicle](https://skfb.ly/prP6R)
+        [Turtle](https://skfb.ly/pwXMA)
+                    
 
 ---
 
@@ -98,10 +103,10 @@ viewport/
 │   │   ├── py.webp
 │   │   ├── pz.webp
 │   │   ├── respawn_anchor.ogg
-│   │   ├── star_night.hdr          # External (HDRI environment map)
-│   │   ├── weeping_angel.glb       # External (3D model from Sketchfab)
-│   │   └── winter_city.hdr         # External (HDRI)
-│   └── win95.mp3                   # Boot sound (public domain)
+│   │   ├── star_night.hdr          # HDRI
+│   │   ├── weeping_angel.glb       # 3D model from Sketchfab: https://skfb.ly/pnPxB
+│   │   └── winter_city.hdr         # HDRI
+│   └── win95.mp3                   # Boot sound
 ├── README.md
 ├── src/
 │   ├── app/
