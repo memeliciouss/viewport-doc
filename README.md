@@ -9,24 +9,22 @@ It mirrors how I think, build, and design — blending aesthetic nostalgia with 
 
 ---
 
-## 🛠️ Built With  
+## Built With  
 - **Next.js** (React framework)
 - **Firebase Realtime Database** 
 - **Vercel** for hosting
 - **Custom CSS**
 - **Git** for version control  
 
----
 
-## 📚 Libraries  
+## Libraries  
 - [`WinBox.js`](https://nextapps-de.github.io/winbox/) – Modern desktop window manager  
 - [`Three.js`](https://threejs.org/) – WebGL 3D graphics  
 - [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber/) – React renderer for Three.js  
 - [`@react-three/drei`](https://docs.pmnd.rs/drei/) – Helpers for react-three-fiber  
 
----
 
-## 🎨 Enhancements & Embeds  
+## Enhancements & Embeds  
 - **Sketchbook** – Personal artwork showcase  
 - **Pipes** – Remake of Windows 3D Pipes screensaver by [1j01](https://github.com/1j01)  
 - **Paint** – MS Paint remake via [jspaint.app](https://jspaint.app)  
@@ -53,7 +51,7 @@ viewport/
 │   │   └── ufo/
 │   │       ├── * ufo assets
 │   ├── cursors/
-│   │   ├── *cursors
+│   │   ├── * .cur assets
 │   ├── customui/
 │   │   ├── controls/
 │   │   │   ├── close.webp
