@@ -1,5 +1,5 @@
 # **viewport** /memelicious  
-### A window into my world  
+*A window into my world*  
 
 ##  Objective  
 A playful, retro-themed web desktop inspired by Windows 95 that serves as both a fun website and a personal portfolio, mirroring how I think, build, and design.
@@ -37,7 +37,7 @@ Blending design and interactivity, making the website feel more like an operatin
 
 ---
 
-## Project Structure (simplified)
+## Project Structure
 ```bash
 viewport/
 ├── .gitignore
